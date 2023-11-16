@@ -1,0 +1,8 @@
+{
+    "disks": [
+        {
+            "name": "my-health-disk",
+            "mountTo": "public"
+        }
+    ]
+}
